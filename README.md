@@ -33,7 +33,7 @@ Está orientado a **maestros**, para que aprendan Python desde cero y lo integre
 
 ## Estructura del taller
 
-El contenido está dividido en **7 capítulos** más una introducción breve sobre Python y las herramientas usadas (Google Colab, Anaconda, etc.).
+El contenido está dividido en **6 capítulos** más una introducción breve sobre Python y las herramientas usadas (Google Colab, Anaconda, etc.).
 
 | Capítulo | Tema | Descripción breve |
 |-----------|------|------------------|
