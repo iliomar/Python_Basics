@@ -53,4 +53,6 @@ El contenido está dividido en **7 capítulos** más una introducción breve sob
 2. Colab abrirá el notebook en tu navegador.
 3. Realiza una copia del notebook: File > Save a Copy in Drive
 
+[Notebook con soluciones](https://colab.research.google.com/drive/1WRqY-0tcM_Y-HYZhhR01XumW7Gu1L5Hw?usp=sharing)
+
 No necesitas instalar nada.
