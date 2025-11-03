@@ -13,7 +13,7 @@ Está diseñado para usarse directamente desde Google Colab, sin necesidad de in
 
 ---
 
-## Propósito del repositorio
+## Repositorio
 
 Este material fue creado para el **Taller de Python para Educadores**, ofrecido en la **Universidad de Puerto Rico en Mayagüez (UPRM)**.  
 Está orientado a **maestros**, para que aprendan Python desde cero y lo integren en su enseñanza.
